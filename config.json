@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "data-visualization",
+      "title": "Data Visualization with Pandas and Matplotlib",
+      "description": "Analyze a dataset, summarize trends, and create charts using Python",
+      "path": "assignments/data-visualization",
+      "dueDate": "2026-09-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "monthly-sales.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }

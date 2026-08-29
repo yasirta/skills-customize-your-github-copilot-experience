@@ -1,0 +1,13 @@
+Month,Sales,Region
+Jan,1200,North
+Feb,1350,North
+Mar,1480,North
+Apr,1600,South
+May,1725,South
+Jun,1890,South
+Jul,2150,East
+Aug,2300,East
+Sep,2000,East
+Oct,1750,West
+Nov,1685,West
+Dec,2400,West
